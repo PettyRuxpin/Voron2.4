@@ -118,8 +118,8 @@
             "spool_id": null,
             "color": "",
             "weight": 971.4286377763511,
-            "extruder_temp": null,
-            "bed_temp": null,
+            "extruder_temp": 0,
+            "bed_temp": 0,
             "runout_lane": "lane3",
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
@@ -130,7 +130,7 @@
         }
     },
     "system": {
-        "current_load": null,
+        "current_load": "lane4",
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
